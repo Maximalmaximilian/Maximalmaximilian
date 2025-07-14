@@ -1,6 +1,6 @@
 # Hi, I'm Maximilian! 👋
 
-**Student of Business & Computer Science | Software Developer **
+Student of Business & Computer Science | Software Developer 
 
 🎓 Currently studying Unternehmens- und Wirtschaftsinformatik at TH Mannheim  
 💼 Working as Werkstudent in Software Development (C# .NET) at ADG Apotheken-Dienstleistungsgesellschaft  
