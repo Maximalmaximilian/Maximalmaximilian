@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Maximilian! 👋
 
-<!--
-**Maximalmaximilian/Maximalmaximilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student of Business & Computer Science | Software Developer **
 
-Here are some ideas to get you started:
+🎓 Currently studying Unternehmens- und Wirtschaftsinformatik at TH Mannheim  
+💼 Working as Werkstudent in Software Development (C# .NET) at ADG Apotheken-Dienstleistungsgesellschaft  
+🔭 Interested in: Enterprise Software, AI-powered Solutions, Process Optimization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Backend:** C# .NET, Java (Spring Boot), PHP
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Database:** SQL Server, PostgreSQL, H2
+- **Tools:** Git, Jira, Signavio, SAP S/4HANA, Microsoft Dynamics 365
+- **Methods:** Agile/Scrum, BPMN 2.0
+
+## 📈 Featured Projects
+- **[FridgeHero](https://github.com/Maximalmaximilian/fridgehero-public)** - Smart food waste reduction app (React Native + Supabase)
+- **[EUDR Compliance Dashboard](https://github.com/Maximalmaximilian/eudr-compliance-public)** - Enterprise compliance tracking (Spring Boot + React)
+
+📫 **Contact:** strobel_maximilian@web.de | [LinkedIn](www.linkedin.com/in/maximilian-strobel-0921aa333)
