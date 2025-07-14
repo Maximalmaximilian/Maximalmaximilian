@@ -17,4 +17,4 @@
 - **[FridgeHero](https://github.com/Maximalmaximilian/fridgehero-public)** - Smart food waste reduction app (React Native + Supabase)
 - **[EUDR Compliance Dashboard](https://github.com/Maximalmaximilian/eudr-compliance-public)** - Enterprise compliance tracking (Spring Boot + React)
 
-📫 **Contact:** strobel_maximilian@web.de | [LinkedIn](www.linkedin.com/in/maximilian-strobel-0921aa333)
+📫 **Contact:** strobel_maximilian@web.de | [LinkedIn](https://www.linkedin.com/in/maximilian-strobel-0921aa333)
