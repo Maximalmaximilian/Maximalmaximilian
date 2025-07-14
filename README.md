@@ -7,7 +7,7 @@ Student of Business & Computer Science | Software Developer
 🔭 Interested in: Enterprise Software, AI-powered Solutions, Process Optimization  
 
 ## 🛠️ Tech Stack
-- **Backend:** C# .NET, Java (Spring Boot), PHP
+- **Backend:** C# .NET, Java, PHP
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Database:** SQL Server, PostgreSQL, H2
 - **Tools:** Git, Jira, Signavio, SAP S/4HANA, Microsoft Dynamics 365
